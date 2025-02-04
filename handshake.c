@@ -2,10 +2,12 @@
 
 int main(void)
 {
-    printf("Hola Amigozzz");
+    printf("Hola Amigozzz\n");
 
     int x = 22;
-    printf("\n%d", x);
+    printf("%d\n", x);
 
     int z = 255;
+    printf("JimJim Was Here\n");
+    printf("Changes happens\n");
 }
