@@ -6,4 +6,6 @@ int main(void)
 
     int x = 22;
     printf("\n%d", x);
+
+    int z = 255;
 }
